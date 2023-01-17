@@ -19,4 +19,3 @@ export default function Home({props}) {
   );
 };
 
-//<ChartComponent style={{flex: 1, }} />
